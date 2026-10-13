@@ -44,4 +44,7 @@ This list shows all available environment variables:
 * SHEEPIT_TITLE
 * SHEEPIT_UI
 
+## Versioning
+To properly reflect the version of sheepit that is being used and the version of the container itself, a combined versioning schema is used.
 
+`CONTAINER-VERSION = <REPO_VERSION>-<SHEEPIT_VERSION>`
